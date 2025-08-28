@@ -1,0 +1,32 @@
+# Build directories
+build/
+**/build/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+
+# Ninja files
+.ninja_deps
+.ninja_log
+build.ninja
+rules.ninja
+
+# IDE files
+*.swp
+*.user
+*.code-workspace
+.vscode/
+
+# Binary artifacts
+*.a
+*.o
+*.obj
+*.gcm
+
+# Benchmark output
+*.json
+*.csv

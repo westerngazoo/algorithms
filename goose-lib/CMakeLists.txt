@@ -50,6 +50,12 @@ add_subdirectory(tests)
 # --- Examples ---
 add_subdirectory(examples)
 
+# --- Benchmarks ---
+option(GOOSE_BUILD_BENCHMARKS "Build benchmark suite" ON)
+if(GOOSE_BUILD_BENCHMARKS)
+    add_subdirectory(benchmarks)
+endif()
+
 # --- Installation ---
 # Defines where the files will be installed on the system.
 include(GNUInstallDirs)
