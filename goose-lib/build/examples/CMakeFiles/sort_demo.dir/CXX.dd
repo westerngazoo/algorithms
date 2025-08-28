@@ -1,3 +1,0 @@
-ninja_dyndep_version = 1.0
-build examples/CMakeFiles/sort_demo.dir/sort_demo.cpp.o: dyndep | CMakeFiles/goose.dir/goose.algorithm.gcm
-

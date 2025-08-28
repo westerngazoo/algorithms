@@ -1,6 +1,0 @@
-FactorialTest.HandlesZero 2 0.00271047
-FactorialTest.HandlesPositiveNumbers 2 0.00276668
-SortTest.BubbleSortsAnUnsortedVector 2 0.00264446
-SortTest.HandlesAlreadySortedVector 2 0.00263093
-SortTest.HandlesEmptyVector 2 0.00293712
----
