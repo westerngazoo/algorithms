@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build tests/CMakeFiles/run_tests.dir/test_factorial.cpp.o: dyndep | CMakeFiles/goose.dir/goose.algorithm.gcm
+
+build tests/CMakeFiles/run_tests.dir/test_sort.cpp.o: dyndep | CMakeFiles/goose.dir/goose.algorithm.gcm
+

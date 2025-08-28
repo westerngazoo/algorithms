@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/goose.dir/include/goose/algorithm/factorial.cppm.o | CMakeFiles/goose.dir/goose.algorithm-factorial.gcm: dyndep
+  restat = 1
+
+build CMakeFiles/goose.dir/include/goose/algorithm/sort.cppm.o | CMakeFiles/goose.dir/goose.algorithm.gcm: dyndep | CMakeFiles/goose.dir/goose.algorithm-factorial.gcm
+  restat = 1
+

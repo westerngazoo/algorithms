@@ -1,0 +1,20 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/goose.dir/include/goose/algorithm/sort.cppm.o",
+"provides": [
+{
+"logical-name": "goose.algorithm",
+"is-interface": true
+}
+],
+"requires": [
+{
+"logical-name": "goose.algorithm:factorial"
+}
+]
+}
+],
+"version": 0,
+"revision": 0
+}

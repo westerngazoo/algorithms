@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

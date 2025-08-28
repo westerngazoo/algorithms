@@ -1,0 +1,7 @@
+# This file is configured by CMake and installed so that other projects
+# can use `find_package(Goose)` to locate and use this library.
+@PACKAGE_INIT@
+
+if(NOT TARGET Goose::goose)
+    include("${CMAKE_CURRENT_LIST_DIR}/GooseTargets.cmake")
+endif()

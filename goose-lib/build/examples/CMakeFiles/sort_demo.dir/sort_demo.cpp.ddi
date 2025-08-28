@@ -1,0 +1,14 @@
+{
+"rules": [
+{
+"primary-output": "examples/CMakeFiles/sort_demo.dir/sort_demo.cpp.o",
+"requires": [
+{
+"logical-name": "goose.algorithm"
+}
+]
+}
+],
+"version": 0,
+"revision": 0
+}

@@ -1,0 +1,26 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/goose/projects/algorithms/goose-lib/build/tests",
+	"dir-cur-src" : "/home/goose/projects/algorithms/goose-lib/tests",
+	"dir-top-bld" : "/home/goose/projects/algorithms/goose-lib/build",
+	"dir-top-src" : "/home/goose/projects/algorithms/goose-lib",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/goose/projects/algorithms/goose-lib/include",
+		"_deps/googletest-src/googletest/include",
+		"_deps/googletest-src/googletest"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/home/goose/projects/algorithms/goose-lib/build/CMakeFiles/goose.dir"
+	],
+	"module-dir" : "/home/goose/projects/algorithms/goose-lib/build/tests/CMakeFiles/run_tests.dir"
+}

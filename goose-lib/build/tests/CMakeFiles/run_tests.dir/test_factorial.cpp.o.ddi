@@ -1,0 +1,14 @@
+{
+"rules": [
+{
+"primary-output": "tests/CMakeFiles/run_tests.dir/test_factorial.cpp.o",
+"requires": [
+{
+"logical-name": "goose.algorithm"
+}
+]
+}
+],
+"version": 0,
+"revision": 0
+}

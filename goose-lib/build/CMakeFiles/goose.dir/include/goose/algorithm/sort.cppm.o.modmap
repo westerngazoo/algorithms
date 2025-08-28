@@ -1,0 +1,3 @@
+$root .
+goose.algorithm CMakeFiles/goose.dir/goose.algorithm.gcm
+goose.algorithm:factorial CMakeFiles/goose.dir/goose.algorithm-factorial.gcm
